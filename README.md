@@ -223,10 +223,7 @@ Bug reports and focused improvements are welcome. When reporting an issue, inclu
 - A small, anonymised example spreadsheet if the issue concerns importing or answer checking.
 
 Please do not attach private vocabulary lists unless you are comfortable sharing their contents.
-
-## License
-
-No project license file is included in the supplied release archive. Until a license is added, assume that reuse, redistribution, and modification are not granted by an explicit open-source license. The bundled SheetJS library has its own license; see its upstream project and the distributed library notices for details.
+an explicit open-source license. The bundled SheetJS library has its own license; see its upstream project and the distributed library notices for details.
 
 ---
 
