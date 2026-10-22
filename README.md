@@ -164,7 +164,7 @@ The app ships as **one self-contained file**:
 
 | File | Purpose |
 |---|---|
-| `index.html` | The whole application — interface, logic, styles, bundled fonts and the SheetJS spreadsheet parser |
+| `HanziFlow_v3_5_1.html` | The whole application — interface, logic, styles, bundled fonts and the SheetJS spreadsheet parser |
 | `LICENSE` | Apache License 2.0 |
 
 There is no package manager, build step or automated test suite. To test a change: open `index.html`, import a small spreadsheet, try every practice mode, reload to confirm persistence, then check all three designs in light and dark, in English and Chinese, at desktop and phone widths, and with reduced motion on.
