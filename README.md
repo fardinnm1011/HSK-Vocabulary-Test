@@ -11,8 +11,6 @@ Vocabulary drills, sentence practice and translation — all running in your bro
 ![No build step](https://img.shields.io/badge/build-none-lightgrey.svg)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20HanziFlow-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/fardinfahim63404)
 
-<img src="screenshots/dashboard-liquid-glass-light.png" alt="HanziFlow dashboard in the Liquid Glass design" width="860">
-
 </div>
 
 ---
@@ -35,28 +33,6 @@ HanziFlow is a single-file web app (plain HTML, CSS and JavaScript — no accoun
 | **Safer data** | Full JSON backup & restore, automatic safety snapshots before risky actions, and upgrade from v2.0 data without touching the originals. |
 | **Accessibility** | Reduced-motion aware, keyboard-friendly, proper focus outlines, and contrast-checked themes. |
 
-## Screenshots
-
-<table>
-  <tr>
-    <td><img src="screenshots/dashboard-liquid-glass-dark.png" alt="Liquid Glass design, dark mode"></td>
-    <td><img src="screenshots/dashboard-material-chinese.png" alt="Material 3 design with the interface in Chinese"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Liquid Glass · dark mode</sub></td>
-    <td align="center"><sub>Material 3 Expressive · interface in 中文</sub></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/dashboard-nothing.png" alt="Nothing-inspired design"></td>
-    <td><img src="screenshots/settings-ai-providers.png" alt="Settings: AI provider picker"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Nothing-inspired design</sub></td>
-    <td align="center"><sub>Settings → Connectivity &amp; AI</sub></td>
-  </tr>
-</table>
-
-<p align="center"><img src="screenshots/practice-mobile.png" alt="Practice screen on a phone" width="300"><br><sub>Responsive on phones and tablets</sub></p>
 
 ## Features
 
